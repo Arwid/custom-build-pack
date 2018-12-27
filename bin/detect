@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-echo "Run"
+# bin/detect <build-dir>
+
+echo "Run" && exit 0
